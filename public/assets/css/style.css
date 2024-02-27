@@ -1,8 +1,8 @@
 /*
-  Project Name: Palun - Dark Personal Portfolio HTML5 Template
-  Author: tortoiz
-  Support: tortoizthemes@gmail.com
-  Description: Personal Portfolio Bootstrap 4 and HTML5 Template
+  Project Name: Leila Farias - WebDesign
+  Author: leila
+  Support: leilafariasdev@gmail.com
+  Description: Personal Portfolio Bootstrap 4 and HTML5 Template ReactJS Vite
   Version: 1.0
 */
 
@@ -215,11 +215,11 @@ p {
   margin-bottom: 13px;
 }
 
-.btn-animation{
+.btn-animation {
   position: relative;
 }
 
-.btn-animation::after{
+.btn-animation::after {
   position: absolute;
   content: "";
   top: 110%;
@@ -300,7 +300,6 @@ p {
 
 
 /* -----------------  2. Header Area -------------- */
-
 .menu-area ul li {
   margin-right: 38px !important;
 
