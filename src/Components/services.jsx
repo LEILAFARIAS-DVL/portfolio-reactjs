@@ -14,7 +14,10 @@ export default function Services() {
                 <SectionTitle
                     title="SERVICES"
                     subTitle="What I Am Great At"
-                    desc="Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupida non proident, sunt in culpa qui officia"
+                    desc="Specialized in User Interface (UI) design and frontend development.
+                    With extensive experience in developing engaging and
+                    intuitive digital experiences, I am prepared to turn
+                    your ideas into reality."
                 />
             </div>
             <div className="container">

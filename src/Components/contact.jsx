@@ -62,7 +62,7 @@ export default function Contact() {
                                 <i><FaDribbble /></i>
                             </div>
                             <a className="btn-animation" href="https://themeforest.net/user/tortoiz"
-                               target="_blank">Tortoiz</a>
+                               target="_blank">Leila</a>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-30 mb-lg-0">
