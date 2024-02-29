@@ -75,7 +75,7 @@ export default function Services() {
             <div className="counter-area mt-45">
                 <div className="container">
                     <div className="row">
-                        <SingleCountdown extraClass="mb-4 mb-md-0" title="Years of Experience" start={0} end={9} duration={5}/>
+                        <SingleCountdown extraClass="mb-4 mb-md-0" title="Years of Experience" start={0} end={5} duration={5}/>
                         <SingleCountdown extraClass="mb-4 mb-md-0" title="Satisfied Customers" start={0} end={200} duration={100}/>
                         <SingleCountdown extraClass="mb-4 mb-md-0" title="Design Items" start={0} end={769} duration={100}/>
                         <SingleCountdown title="Clients Served" start={0} end={124} duration={100}/>
