@@ -21,8 +21,8 @@ export default function Blogs() {
             <div className="container">
                 <SectionTitle
                     title="LATEST NEWS"
-                    subTitle="My Latest Articles"
-                    desc="Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupida non proident, sunt in culpa qui officia"
+                    subTitle="Exploring the World of Web Tech"
+                    desc="Step into the realm of cutting-edge web technology with my latest blog entries! Delve into insightful articles that unravel the mysteries of ReactJS, delve into the intricacies of front-end development, and navigate the ever-evolving landscape of web design trends. Whether you're a seasoned developer seeking inspiration or a curious newcomer eager to learn, my portfolio's tech blog is your gateway to innovation and discovery. Join me on this journey as we explore the limitless possibilities of the digital frontier!"
                 />
                 <div className="row mt-45 pb-90">
                     <div className="col-xl-8">
