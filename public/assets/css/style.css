@@ -286,11 +286,11 @@ p {
   text-align: left;
 }
 
-*::focus {
+*:focus {
   outline: none;
 }
 
-*::active {
+*:active {
   outline: none;
 }
 
