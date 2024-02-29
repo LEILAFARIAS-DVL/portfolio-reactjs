@@ -43,8 +43,8 @@ export default function Contact() {
                             <div className="ct-item-icon float-left ml-30 mr-20">
                                 <i><FaSkype/></i>
                             </div>
-                            <a className="btn-animation" href="https://themeforest.net/user/tortoiz"
-                               target="_blank">live:shail_</a>
+                            <a className="btn-animation" href="https://join.skype.com/invite/KJVTmd4PZ65W"
+                               target="_blank">live:skype</a>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-30 mb-lg-0">
@@ -52,8 +52,8 @@ export default function Contact() {
                             <div className="ct-item-icon float-left ml-30 mr-20">
                                 <i><FaTwitter /></i>
                             </div>
-                            <a className="btn-animation" href="https://themeforest.net/user/tortoiz"
-                               target="_blank">@tortoiz</a>
+                            <a className="btn-animation" href="https://themeforest.net/user/hempelleila"
+                               target="_blank">@leila</a>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-30 mb-lg-0">
@@ -61,7 +61,7 @@ export default function Contact() {
                             <div className="ct-item-icon float-left ml-30 mr-20">
                                 <i><FaDribbble /></i>
                             </div>
-                            <a className="btn-animation" href="https://themeforest.net/user/tortoiz"
+                            <a className="btn-animation" href="https://www.facebook.com/profile.php?id=61556669963294"
                                target="_blank">Leila</a>
                         </div>
                     </div>
@@ -70,7 +70,7 @@ export default function Contact() {
                             <div className="ct-item-icon float-left ml-30 mr-20">
                                 <i><FaFacebookF /></i>
                             </div>
-                            <a className="btn-animation" href="https://www.facebook.com/tortoizthemes">Tortoizthemes</a>
+                            <a className="btn-animation" href="https://www.facebook.com/profile.php?id=61556669963294" target="_blank">Leila Farias</a>
                         </div>
                     </div>
                 </div>
