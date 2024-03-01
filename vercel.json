@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "build/", // Diretório de origem do seu projeto
+      "use": "@vercel/static-build" // Especifica que este é um projeto de build estático
+    }
+  ],
+  "routes": [
+    { "handle": "filesystem" } // Roteia todas as solicitações para a pasta build
+  ]
+}
