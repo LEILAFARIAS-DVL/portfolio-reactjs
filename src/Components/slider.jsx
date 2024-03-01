@@ -56,14 +56,14 @@ export default function slider() {
                                     <div className="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-5">
                                         <div className="slider-left">
                                             <div className="name">
-                                                <h1>Jack <br /> Harper<span className="pc">.</span></h1>
+                                                <h1>Leila <br /> Farias<span className="pc">.</span></h1>
                                             </div>
                                             <div className="dash"></div>
                                             <div className="social-links mb-40">
-                                                <a href="https://www.instagram.com/tortoiz">Instagram</a> | <a
-                                                    href="https://www.linkedin.com/in/shailendra-bhardwaj-4539611a0/">LinkedIn</a> <br />
-                                                <a href="https://behance.net/tortoizthemes">Behance</a> | <a
-                                                    href="https://dribbble.com/TortoizTeam">Dribbble</a>
+                                                <a href="https://www.instagram.com/leilafariasweb/" target="_blank">Instagram</a> | <a
+                                                    href="https://www.linkedin.com/in/leilafarias-dev/" target="_blank">LinkedIn</a> <br />
+                                                <a href="https://github.com/LEILAFARIAS-DVL" target="_blank">GitHub</a> | <a
+                                                    href="https://twitter.com/leilafariasdev/" target="_blank">Twitter</a>
                                             </div>
                                             <div className="slider-cta">
                                                 <Link 
@@ -79,18 +79,22 @@ export default function slider() {
                                     </div>
                                     <div className="col-xl-5 col-lg-5 col-md-5 col-sm-8 col-7 pl-0">
                                         <div className="profile-pic">
-                                            <img className="img-fluid" src={sliderImg01} alt="jack harper"/>
+                                            <img className="img-fluid" src={sliderImg01} alt="leila farias"/>
                                         </div>
                                     </div>
                                     <div className="col-xl-4 col-lg-4 col-md-4 col-sm-8 col-8 slider-area-intro">
                                         <div className="into-area">
                                             <div className="section-title">
                                                 <h3 className="section-name pc">INTRODUCTION</h3>
-                                                <h2>UI/UX Designer,<br />Full Stack Web <br /> Developer</h2>
+                                                <h2>UI/UX Designer,<br />Frontend Web <br /> Developer</h2>
                                                 <p className="pr-20">
-                                                    Lorem ipsum dolor sit amet, consectetur adip
-                                                    cing elit, sed do eiusmod tempor incidid
-                                                    unt ut labore et dolorepore magna aliqua.</p>
+                                                    Welcome to my digital world!
+                                                    I'm a frontend developer specialized in UI/UX design,
+                                                    passionate about crafting engaging and functional digital
+                                                    experiences. With skills in HTML, CSS, and JavaScript,
+                                                    I'm dedicated to turning concepts into attractive and intuitive
+                                                    interfaces. Explore my portfolio and discover how I can elevate
+                                                    user experience in your projects.</p>
                                             </div>
                                             <div className="intro-button">
                                                 <Link
@@ -113,14 +117,14 @@ export default function slider() {
                                     <div className="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-5">
                                         <div className="slider-left">
                                             <div className="name">
-                                                <h1>Jack <br /> Harper<span className="pc">.</span></h1>
+                                                <h1>Leila <br /> Farias<span className="pc">.</span></h1>
                                             </div>
                                             <div className="dash"></div>
                                             <div className="social-links mb-40">
-                                                <a href="https://www.instagram.com/tortoiz">Instagram</a> | <a
-                                                    href="https://www.linkedin.com/in/shailendra-bhardwaj-4539611a0/">LinkedIn</a> <br />
-                                                <a href="https://behance.net/tortoizthemes">Behance</a> | <a
-                                                    href="https://dribbble.com/TortoizTeam">Dribbble</a>
+                                                <a href="https://www.instagram.com/leilafariasweb/" target="_blank">Instagram</a> | <a
+                                                    href="https://www.linkedin.com/in/leilafarias-dev/" target="_blank">LinkedIn</a> <br />
+                                                <a href="https://github.com/LEILAFARIAS-DVL" target="_blank">GitHub</a> | <a
+                                                    href="https://twitter.com/leilafariasdev/" target="_blank">Twitter</a>
                                             </div>
                                             <div className="slider-cta">
                                                 <Link
@@ -136,18 +140,21 @@ export default function slider() {
                                     </div>
                                     <div className="col-xl-5 col-lg-5 col-md-5 col-sm-8 col-7 pl-0">
                                         <div className="profile-pic">
-                                            <img className="img-fluid" src={sliderImg01} alt="jack harper" />
+                                            <img className="img-fluid" src={sliderImg01} alt="leila farias" />
                                         </div>
                                     </div>
                                     <div className="col-xl-4 col-lg-4 col-md-4 col-sm-8 col-8 slider-area-intro">
                                         <div className="into-area">
                                             <div className="section-title">
                                                 <h3 className="section-name pc">INTRODUCTION</h3>
-                                                <h2>UI/UX Designer,<br />Full Stack Web <br /> Developer</h2>
+                                                <h2>UI/UX Designer,<br />Frontend Web <br /> Developer</h2>
                                                 <p className="pr-20">
-                                                    Lorem ipsum dolor sit amet, consectetur adip
-                                                    cing elit, sed do eiusmod tempor incidid
-                                                    unt ut labore et dolorepore magna aliqua.</p>
+                                                    I'm a web developer specializing in HTML, CSS, JavaScript,
+                                                    and ReactJS, dedicated to crafting innovative digital solutions.
+                                                    With a focus on user experience, I'm constantly honing my
+                                                    skills in UI/UX design to deliver captivating and functional
+                                                    interfaces. Explore my portfolio and discover how I can
+                                                    turn your ideas into digital reality.</p>
                                             </div>
                                             <div className="intro-button">
                                                 <Link
@@ -170,14 +177,14 @@ export default function slider() {
                                     <div className="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-5">
                                         <div className="slider-left">
                                             <div className="name">
-                                                <h1>Jack <br /> Harper<span className="pc">.</span></h1>
+                                                <h1>Leila <br /> Farias<span className="pc">.</span></h1>
                                             </div>
                                             <div className="dash"></div>
                                             <div className="social-links mb-40">
-                                                <a href="https://www.instagram.com/tortoiz">Instagram</a> | <a
-                                                    href="https://www.linkedin.com/in/shailendra-bhardwaj-4539611a0/">LinkedIn</a> <br />
-                                                <a href="https://behance.net/tortoizthemes">Behance</a> | <a
-                                                    href="https://dribbble.com/TortoizTeam">Dribbble</a>
+                                                <a href="https://www.instagram.com/leilafariasweb/" target="_blank">Instagram</a> | <a
+                                                    href="https://www.linkedin.com/in/leilafarias-dev" target="_blank">LinkedIn</a> <br />
+                                                <a href="https://github.com/LEILAFARIAS-DVL" target="_blank">GitHub</a> | <a
+                                                    href="https://twitter.com/leilafariasdev" target="_blank">Twitter</a>
                                             </div>
                                             <div className="slider-cta">
                                                 <Link
@@ -193,18 +200,24 @@ export default function slider() {
                                     </div>
                                     <div className="col-xl-5 col-lg-5 col-md-5 col-sm-8 col-7 pl-0">
                                         <div className="profile-pic">
-                                            <img className="img-fluid" src={sliderImg01} alt="jack harper" />
+                                            <img className="img-fluid" src={sliderImg01} alt="leila farias" />
                                         </div>
                                     </div>
                                     <div className="col-xl-4 col-lg-4 col-md-4 col-sm-8 col-8 slider-area-intro">
                                         <div className="into-area">
                                             <div className="section-title">
                                                 <h3 className="section-name pc">INTRODUCTION</h3>
-                                                <h2>UI/UX Designer,<br />Full Stack Web <br /> Developer</h2>
+                                                <h2>UI/UX Designer,<br />Frontend Web <br /> Developer</h2>
                                                 <p className="pr-20">
-                                                    Lorem ipsum dolor sit amet, consectetur adip
-                                                    cing elit, sed do eiusmod tempor incidid
-                                                    unt ut labore et dolorepore magna aliqua.</p>
+                                                    Web Design & Mobile/Web APIs: I specialize in web design and
+                                                    mobile/web API development. With extensive experience in
+                                                    crafting engaging and functional interfaces, as well as
+                                                    implementing robust APIs for various platforms,
+                                                    I'm equipped to tackle diverse challenges in the digital
+                                                    realm. Working remotely, I have the flexibility to collaborate
+                                                    on projects from anywhere in the world. Get in touch with
+                                                    me to discuss hiring opportunities and partnerships
+                                                    that can drive the success of your business.</p>
                                             </div>
                                             <div className="intro-button">
                                                 <Link

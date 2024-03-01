@@ -16,8 +16,8 @@ export default function Newsletter() {
                             </form>
                         </div>
                         <div className="social-links text-center">
-                          <a href="https://www.instagram.com/tortoiz">Instagram</a> | <a href="https://www.linkedin.com/in/shailendra-bhardwaj-4539611a0/">LinkedIn</a> |
-                          <a href="https://behance.net/tortoizthemes">Behance</a> | <a href="https://dribbble.com/TortoizTeam">Dribbble</a>
+                          <a href="https://www.instagram.com/leilafariasweb/">Instagram</a> | <a href="https://www.linkedin.com/in/leilafarias-dev/">LinkedIn</a> |
+                          <a href="https://github.com/LEILAFARIAS-DVL">GitHub</a> | <a href="https://twitter.com/leilafariasdev">Twitter</a>
                         </div>
                     </div>
                 </div>
