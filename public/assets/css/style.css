@@ -1,13 +1,13 @@
 /*
-  Project Name: Leila Farias - WebDesign
+  Project Name: Portfolio - Dark Personal Portfolio ReactJS
   Author: leila
   Support: leilafariasdev@gmail.com
-  Description: Personal Portfolio Bootstrap 4 and HTML5 Template ReactJS Vite
+  Description: Personal Portfolio React JS
   Version: 1.0
 */
 
 
-/* CSS Index 
+/* CSS Index
 -----------------------------------
 1. Theme default css
 2. Header Area
@@ -54,7 +54,7 @@ a {
   text-decoration: none;
 }
 body a {
-   color: #b8b7b7;
+  color: #b8b7b7;
 }
 body a:hover {
   color: #e4aa48;
@@ -115,7 +115,7 @@ h4 {
   line-height: 30px;
 }
 h4.skill-project {
-    font-size: 20px;
+  font-size: 20px;
   line-height: 30px;
 }
 h5 {
@@ -215,11 +215,11 @@ p {
   margin-bottom: 13px;
 }
 
-.btn-animation {
+.btn-animation{
   position: relative;
 }
 
-.btn-animation::after {
+.btn-animation::after{
   position: absolute;
   content: "";
   top: 110%;
@@ -286,11 +286,11 @@ p {
   text-align: left;
 }
 
-*:focus {
+*::focus {
   outline: none;
 }
 
-*:active {
+*::active {
   outline: none;
 }
 
@@ -300,6 +300,7 @@ p {
 
 
 /* -----------------  2. Header Area -------------- */
+
 .menu-area ul li {
   margin-right: 38px !important;
 
@@ -311,8 +312,8 @@ p {
   color: #dadada !important;
 }
 .dropdown-menu {
-    background-color: rgba(67, 67, 70, 0.3) !important;
-    border-radius: 0;
+  background-color: rgba(67, 67, 70, 0.3) !important;
+  border-radius: 0;
 }
 .dropdown-menu a {
   background-color: transparent !important;
@@ -415,9 +416,9 @@ p {
   margin-bottom: 14px;
 }
 .slider-left h1 {
-    font-size: 50px;
-    font-weight: 800;
-    line-height: 60px;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 60px;
 }
 .social-links {
   font-size: 14px;
@@ -434,29 +435,29 @@ p {
   text-decoration: none;
 }
 .intro-button a:hover {
- text-decoration: none;
- color: #e4aa48;
+  text-decoration: none;
+  color: #e4aa48;
 }
 .slick-dots > :not(.slick-active) {
-	display: none;
+  display: none;
 }
 
 .slick-dots li button {
-	background: transparent;
-	border: none;
-	color: #959595;
-	font-family: 'Open sans',sans-serif;
-	font-size: 23px;
-	font-weight: 800;
+  background: transparent;
+  border: none;
+  color: #959595;
+  font-family: 'Open sans',sans-serif;
+  font-size: 23px;
+  font-weight: 800;
 }
 
 .slider-activator .slick-arrow {
-	background: transparent;
-	border: none;
-	font-size: 25px;
-	position: absolute;
-	right: 5%;
-	top: 80%;
+  background: transparent;
+  border: none;
+  font-size: 25px;
+  position: absolute;
+  right: 5%;
+  top: 80%;
   line-height: 22px;
   color: #959595;
   z-index: 9999;
@@ -472,19 +473,19 @@ p {
 }
 
 .slick-prev.slick-prev {
-	right: 10%;
+  right: 10%;
 }
 
 .slick-dots .slick-active {
-	position: absolute;
-	top: 80%;
-	right: 7.7%;
+  position: absolute;
+  top: 80%;
+  right: 7.7%;
 }
 .slick-slide div {
-    outline: none;
+  outline: none;
 }
 .slider-activator .slick-dots li button {
-    font-size: 16px;
+  font-size: 16px;
 }
 .slider-activator .slick-dots li button:focus {
   outline: 0;
@@ -497,9 +498,9 @@ p {
   content: none !important;
 }
 
-.slider-activator .slick-next:focus, 
-.slider-activator .slick-next:hover, 
-.slider-activator .slick-prev:focus, 
+.slider-activator .slick-next:focus,
+.slider-activator .slick-next:hover,
+.slider-activator .slick-prev:focus,
 .slider-activator .slick-prev:hover {
   color: #ddd;
 }
@@ -573,14 +574,14 @@ p {
 }
 
 .pofo-line {
-    background: #d6d6d6;
-    height: 2px;
-    position: absolute;
-    top: 55%;
-    width: 82.5%;
-    z-index: -1;
-    margin: 0 auto;
-    text-align: center;
+  background: #d6d6d6;
+  height: 2px;
+  position: absolute;
+  top: 55%;
+  width: 82.5%;
+  z-index: -1;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .portfolio-thumb img {
@@ -694,7 +695,7 @@ p {
 }
 .blog-button a {
   font-size: 14px;
-  color: #e4aa48;  
+  color: #e4aa48;
   position: relative;
 }
 .blog-button a:hover {
@@ -745,19 +746,19 @@ p {
   line-height: 26px;
 }
 .blog-small-description a:hover {
- text-decoration: none;
+  text-decoration: none;
 }
 .blog-small-description  h2:hover {
-    color: #e4aa48;
+  color: #e4aa48;
 }
 .blog-small-description p {
-     font-size: 16px;
-    line-height: 20px;
-    margin-bottom: 0;
-    white-space: break-spaces;
-    text-overflow: ellipsis;
-    height: 43px;
-    overflow: hidden;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 0;
+  white-space: break-spaces;
+  text-overflow: ellipsis;
+  height: 43px;
+  overflow: hidden;
 }
 .blog-lists-wrapper .blog-item-small-wrapper:last-child .horizontal-border {
   display: none;
@@ -772,8 +773,8 @@ p {
   margin: 15px 0;
 }
 .news-area .blog-img img {
- height: 250px;
- object-fit: cover;
+  height: 250px;
+  object-fit: cover;
 }
 /* ----------- 8. Contact Area --------- */
 
@@ -838,8 +839,8 @@ p {
 
 /* ------------ 10. Blog Area --------- */
 .page-title h1 {
-	font-size: 35px;
-	line-height: 40px;
+  font-size: 35px;
+  line-height: 40px;
 }
 
 .blog-section .title{
@@ -851,11 +852,11 @@ p {
 }
 
 .blog-section .title .dash {
-	width: 80%;
-	height: 4px;
-	position: absolute;
-	top: 22px;
-	left: 20%;
+  width: 80%;
+  height: 4px;
+  position: absolute;
+  top: 22px;
+  left: 20%;
 }
 
 .list-blog-item{
@@ -886,53 +887,53 @@ p {
 }
 
 .list-blog-meta .date > p {
-	color: #e4aa48;
-	font-weight: 800;
-	line-height: 40px;
-	font-family: 'Open sans',sans-serif;
+  color: #e4aa48;
+  font-weight: 800;
+  line-height: 40px;
+  font-family: 'Open sans',sans-serif;
 }
 
 .list-blog-detail a h2 {
-	font-size: 22px;
+  font-size: 22px;
   line-height: 32px;
 }
 .list-blog-detail a:hover {
   text-decoration: none;
 }
 .list-blog-detail a h2:hover {
- color: #e4aa48;
+  color: #e4aa48;
 }
 .list-blog-detail p {
-	font-size: 16px;
-	line-height: 26px;
+  font-size: 16px;
+  line-height: 26px;
 }
 
 .list-blog-item .play-btn {
-	position: absolute;
-	top:50%;
-	left: 50%;
-	border: 2px solid #e4aa48;
-	background: #2e2e34;
-	width: 80px;
-	height: 80px;
-	line-height: 78px;
-	text-align: center;
-	border-radius: 50%;
-	color: #e4aa48;
-	transform: translate(-50%, -50%);
+  position: absolute;
+  top:50%;
+  left: 50%;
+  border: 2px solid #e4aa48;
+  background: #2e2e34;
+  width: 80px;
+  height: 80px;
+  line-height: 78px;
+  text-align: center;
+  border-radius: 50%;
+  color: #e4aa48;
+  transform: translate(-50%, -50%);
 }
 .play-btn a {
   color: #b8b7b7;
   line-height: 1;
 }
 .play-btn a:hover {
-  	color: #e4aa48;
+  color: #e4aa48;
 }
 .email-input form input[type='email'] {
-	width: 100%;
-	border: none;
-	height: 60px;
-	line-height: 60px;
+  width: 100%;
+  border: none;
+  height: 60px;
+  line-height: 60px;
   border-bottom: 3px solid #e4aa48;
   font-size: 16px;
   font-weight: 800;
@@ -949,19 +950,19 @@ p {
 }
 
 .email-input .ct-btn {
-	text-transform: uppercase;
-	font-family: 'Nunito', sans-serif;
-	font-size: 14px;
-	background: transparent;
-	color: #e4aa48;
-	border: 2px solid #e4aa48;
-	width: 150px;
-	height: 50px;
-	line-height: 46px;
-	letter-spacing: .12em;
-	text-align: center;
-	display: block;
-	margin: 40px auto;
+  text-transform: uppercase;
+  font-family: 'Nunito', sans-serif;
+  font-size: 14px;
+  background: transparent;
+  color: #e4aa48;
+  border: 2px solid #e4aa48;
+  width: 150px;
+  height: 50px;
+  line-height: 46px;
+  letter-spacing: .12em;
+  text-align: center;
+  display: block;
+  margin: 40px auto;
 }
 
 .email-input .ct-btn:hover {
@@ -970,7 +971,7 @@ p {
   transition: .3s ease-out;
 }
 .ct-btn:hover {
-   text-decoration: none;
+  text-decoration: none;
 }
 .newsletter-area .social-links a{
   font-size: 18px;
@@ -987,28 +988,28 @@ p {
 }
 
 .news-details h2 {
-	font-size: 25px;
-	line-height: 35px;
+  font-size: 25px;
+  line-height: 35px;
 }
 
 .blockquote {
-	background: #2e2e34;
-	padding: 50px 60px;
+  background: #2e2e34;
+  padding: 50px 60px;
   font-size: 60px;
   line-height: 40px;
 }
 
 .speech {
-	font-size: 40px;
-	font-family: 'Open sans',sans-serif;
-	font-weight: 300;
-	line-height: 50px;
+  font-size: 40px;
+  font-family: 'Open sans',sans-serif;
+  font-weight: 300;
+  line-height: 50px;
 }
 
 .blockquote-footer {
-	color: #959595;
-	font-size: 30px;
-	font-style: italic;
+  color: #959595;
+  font-size: 30px;
+  font-style: italic;
 }
 
 .main-area hr{
@@ -1016,14 +1017,14 @@ p {
 }
 
 .news-meta h4 {
-	margin-bottom: 20px;
-	font-size: 18px;
+  margin-bottom: 20px;
+  font-size: 18px;
 }
 .news-social ul {
   margin-bottom: 0;
 }
 .news-social ul li a {
-	margin-right: 10px;
+  margin-right: 10px;
 }
 
 .news-social ul li:last-child a{
@@ -1033,17 +1034,17 @@ p {
   margin-bottom: 0;
 }
 .tags ul li a {
-	font-size: 12px;
-	font-family: 'Nunito',sans-serif;
-	text-align: center;
-	background: #2e2e34;
-	padding: 10px 20px;
+  font-size: 12px;
+  font-family: 'Nunito',sans-serif;
+  text-align: center;
+  background: #2e2e34;
+  padding: 10px 20px;
 }
 
 .row.nav-buttons a {
-	font-size: 18px;
-	margin-bottom: 0px;
-	display: block;
+  font-size: 18px;
+  margin-bottom: 0px;
+  display: block;
 }
 
 
@@ -1076,7 +1077,7 @@ p {
     top: 90%;
   }
 
-  
+
   .slick-prev.slick-prev {
     right: 10%;
   }
@@ -1113,9 +1114,9 @@ p {
     margin-right: 10px;
     display: none;
   }
-.blog-small-img a {
-  display: inline-block;
-}
+  .blog-small-img a {
+    display: inline-block;
+  }
   .single-blog .play-btn {
     top: 17%;
   }
@@ -1140,20 +1141,20 @@ p {
 /* Tablet desktop :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
 
-.section-ptb {
-  padding-top: 80px;
-  padding-bottom: 80px;
-}
-.section-ptb-2 {
-  padding-top: 80px;
-  padding-bottom: 74px;
-}
-.section-pt {
-  padding-top: 80px;
-}
-.section-pb {
-  padding-bottom: 80px;
-}
+  .section-ptb {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .section-ptb-2 {
+    padding-top: 80px;
+    padding-bottom: 74px;
+  }
+  .section-pt {
+    padding-top: 80px;
+  }
+  .section-pb {
+    padding-bottom: 80px;
+  }
 
   .slide-item>.container {
     padding-top: 60px;
@@ -1258,7 +1259,7 @@ p {
   }
 
   /* blog list */
- 
+
   .blog-section .title .dash {
     width: 70%;
     left: 30%;
@@ -1274,35 +1275,35 @@ p {
 }
 
 @media (max-width: 991px){
- .navbar-nav {
-   background-color: #333;
-   padding: 8px 0 20px 0;
- }
- .newsletter-area .social-links a {
-   font-size: 16px;
- }
+  .navbar-nav {
+    background-color: #333;
+    padding: 8px 0 20px 0;
+  }
+  .newsletter-area .social-links a {
+    font-size: 16px;
+  }
 }
 /* small mobile :320px. */
 @media (max-width: 767px) {
 
-.section-ptb {
-  padding-top: 70px;
-  padding-bottom: 70px;
-}
-.section-ptb-2 {
-  padding-top: 70px;
-  padding-bottom: 54px;
-}
-.section-pt {
-  padding-top: 70px;
-}
-.section-pb {
-  padding-bottom: 70px;
-}
+  .section-ptb {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .section-ptb-2 {
+    padding-top: 70px;
+    padding-bottom: 54px;
+  }
+  .section-pt {
+    padding-top: 70px;
+  }
+  .section-pb {
+    padding-bottom: 70px;
+  }
 
-.mt-45 {
-  margin-top: 20px !important;
-}
+  .mt-45 {
+    margin-top: 20px !important;
+  }
   .slide-item>.container {
     padding-top: 50px;
     padding-bottom: 0;
@@ -1315,10 +1316,10 @@ p {
   .slider-activator .slick-arrow {
     top: 90%;
   }
-.slick-dots .slick-active {
+  .slick-dots .slick-active {
     top: 90%;
     right: 9.5%;
-}
+  }
   .into-area {
     display: none;
   }
@@ -1370,9 +1371,9 @@ p {
   .pofo-cat {
     padding-top: 1rem;
   }
-    .pofo-cat.pb-5 {
-      padding-bottom: 2.2rem !important;
-    }
+  .pofo-cat.pb-5 {
+    padding-bottom: 2.2rem !important;
+  }
 
   .portfolio-area {
     padding: 65px 0 40px 0;
@@ -1384,7 +1385,7 @@ p {
 
   .single-blog .play-btn {
     top: 25%;
-    
+
   }
 
   .contact-area {
@@ -1425,7 +1426,7 @@ p {
   }
 
   .blockquote-footer {
-   font-size: 16px;
+    font-size: 16px;
   }
 
   /* blog list */
@@ -1455,8 +1456,8 @@ p {
   }
 
   .slick-dots .slick-active {
-   top: 89.8%;
-   right: 9.7%;
+    top: 89.8%;
+    right: 9.7%;
   }
 
   .into-area {
@@ -1515,14 +1516,14 @@ p {
 
   .blockquote {
     padding: 20px 30px;
-    
+
   }
 
   /* blog list */
   .blog-post-area {
     padding: 40px 0;
   }
-  
+
   .blog-section .title .dash {
     width: 30%;
     left: 70%;

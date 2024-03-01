@@ -7,7 +7,6 @@ export default defineConfig({
   },
   plugins: [svgr()],
   server: {
-    port: 3000, // porta para o servidor de desenvolvimento
-    open: true, // abre o navegador automaticamente
+    open: true, // Isso abrirá o navegador automaticamente
   },
 });
