@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "yarn build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
@@ -14,7 +14,7 @@
     "bootstrap": "^5.3.2",
     "debug": "^4.3.4",
     "macy": "^2.5.1",
-    "react": "^18.2.0",
+    "react": "^18.2.0",q
     "react-bootstrap": "^2.9.1",
     "react-countup": "^6.5.0",
     "react-dom": "^18.2.0",
